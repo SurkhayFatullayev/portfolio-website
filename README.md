@@ -1,2 +1,2 @@
-# portfolio-website
-nodesc
+# Portfolio Website
+This is a project for building a personal portfolio website.
